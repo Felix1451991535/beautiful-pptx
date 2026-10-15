@@ -1,0 +1,8 @@
+styles/assets/raw/
+styles/assets/gen/
+examples/scrapbook-assets/assets/
+tools/oxv/bin/
+tools/oxv/obj/
+out/
+__pycache__/
+*.pyc
